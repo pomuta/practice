@@ -70,3 +70,21 @@
    .content-right {
      width: 530px;
    }
+   .news-heading {
+     margin-bottom: 30px;
+     text-align: center;
+     font-size: 16px;
+     font-weight: normal;
+   }
+   .news-list {
+     margin-right: 10px;
+     margin-left: 10px;
+   }
+   .news-list-title {
+     margin-top: 5px;
+     margin-bottom: 4px;
+   }
+   .news-list-description {
+     margin-bottom: 30px;
+     margin-left: 80px;
+   }
