@@ -7,6 +7,7 @@
 
    body {
      display: flex;
+     background-color: #b0c4de;
    }
 
    .nav-wrapper {
@@ -17,6 +18,7 @@
    .nav {
      margin-top: 43px;
      margin-left: 18px;
+     background-color: #b0c4de;
    }
    .nav-content {
      display: flex;
